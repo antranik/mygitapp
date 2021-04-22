@@ -1,2 +1,2 @@
 # mygitapp
-# Test
+# Learning GIT
